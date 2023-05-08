@@ -1,4 +1,4 @@
-# Tor-bridge
+# Tor.Network
 The Onion Router bridge |
 
 # Doc:
